@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author ksramirez
  */
-public class Factorials {
+public class Add1toN {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
