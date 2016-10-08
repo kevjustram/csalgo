@@ -1,1 +1,1 @@
-"Exercises are in the Exercise Folder"
+"Exercises are in Exercise/scr directory"
