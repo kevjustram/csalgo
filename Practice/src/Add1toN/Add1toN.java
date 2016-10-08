@@ -1,4 +1,4 @@
-package practice;
+package Add1toN;
 
 import java.util.Scanner;
 

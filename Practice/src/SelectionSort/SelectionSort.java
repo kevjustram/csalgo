@@ -1,4 +1,4 @@
-package practice;
+package SelectionSort;
 
 public class SelectionSort {
 

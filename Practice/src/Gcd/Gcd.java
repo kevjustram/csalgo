@@ -1,4 +1,4 @@
-package practice;
+package Gcd;
 
 import java.util.Scanner;
 
