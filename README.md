@@ -1,1 +1,1 @@
-"Hello World"
+"Exercises are in the Exercise Folder"
