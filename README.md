@@ -1,1 +1,1 @@
-"Exercises are in Exercise/scr directory"
+"Exercises are in Exercise/src directory"
