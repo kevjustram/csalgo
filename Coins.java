@@ -1,8 +1,8 @@
-package Greedy;
+package Coins;
 
 import java.util.Scanner;
 
-public class Greedy {
+public class Coins {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
