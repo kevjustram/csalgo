@@ -1,8 +1,18 @@
-package Fibonacci;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Fibonacci.FibonacciWithMemoization;
 
-public class Fibonacci {
+/**
+ *
+ * @author ksramirez
+ */
+public class FibonacciWithMemoization {
 
     public static long fibArray[] = new long[31];
+
     public static long fibonacci(long n) {
         long fibValue = 0;
         if (n == 0) {
